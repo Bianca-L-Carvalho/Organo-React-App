@@ -13,6 +13,7 @@ const Team = (props) => {
           name={colaborator.name}
           position={colaborator.position}
           image={colaborator.image}
+          color={props.primaryColor}
         />)}
       </div>
     </section> 

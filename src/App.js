@@ -48,7 +48,6 @@ function App() {
 
   const onAddEmployee = (employee) => {
     setEmployees([...employees, employee]);
-    console.log(employees);
   };
 
 
