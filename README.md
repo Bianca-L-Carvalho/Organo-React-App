@@ -1,4 +1,4 @@
-# Interactive Team Organization Chart
+# Organo - Interactive Team Organization Chart
 
 ## Description
 This project is an Interactive Team Organization Chart developed with React to manage the structure of employee teams within an organization. It provides an intuitive interface to register new employees, specifying their names, positions, and areas of operation within the company. The application visually displays the teams and their members through a color-coded layout for each team.
