@@ -33,7 +33,7 @@ setTeam("")
   return (
     <section className='form'>
       <form onSubmit={onSave}>
-        <h2>Preencha o card para criar o card do colaborador</h2>
+        <h2>Preencha os dados para criar o card do colaborador</h2>
         <TextField 
         value={name}
         onChanged={value => setName(value)}

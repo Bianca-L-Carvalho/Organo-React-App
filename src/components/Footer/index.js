@@ -26,7 +26,7 @@ const Footer = () => {
                 <img src="/logo.png" alt="Organo Logo" />
            </section>
            <section className="text">
-                <p>Desenvolvido por Alura</p>
+                <a href="https://github.com/Bianca-L-Carvalho">Github: Bianca-L-Carvalho</a>
            </section>
         </footer>
     )
